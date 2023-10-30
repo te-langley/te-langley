@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Langley**, an associate instructor at [Tech Elevator](https://www.techelevator.com/)!  I exclusively support job-seeking alumni primarily by providing technical support, but I also enjoy chatting with students about anything tech!  
+I'm Langley, an associate instructor at [Tech Elevator](https://www.techelevator.com/)!  I exclusively support job-seeking alumni primarily by providing technical support, but I also enjoy chatting with students about anything tech!  
 
 <!--
 **te-langley/te-langley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
